@@ -5,9 +5,10 @@ Environment:
 2. JDK 1.8
 
 3. STS
-
+      
 
 Import project:
+
 FILE ->  Import  -> Maven  -> Existing Maven Projects
 
 Major Dependencies of Project:
